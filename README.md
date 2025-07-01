@@ -2,8 +2,8 @@
 
 🧋 I'm Taiwanese.\
    [tab]我是台灣人。\
-📚 Master's student right now.
-    目前是碩士生。
+📚 Master's student right now.  
+    目前是碩士生。<br>
 🔭 Currently working on sky localization of gravitational waves.
     現在在做有關重力波天空定位的研究。
 💡 I like Physics, especially high-energy theoretical physics.
