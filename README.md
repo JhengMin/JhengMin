@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🧋 I'm Taiwanese./n
+🧋 I'm Taiwanese.\n
     我是台灣人。/n
 📚 Master's student right now.
     目前是碩士生。
