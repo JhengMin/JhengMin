@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🧋 I'm Taiwanese.\n
-    我是台灣人。/n
+🧋 I'm Taiwanese.\
+    我是台灣人。\
 📚 Master's student right now.
     目前是碩士生。
 🔭 Currently working on sky localization of gravitational waves.
