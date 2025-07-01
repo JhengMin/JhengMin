@@ -3,7 +3,7 @@
 🧋 I'm Taiwanese.  
     &emsp;&emsp;我是台灣人。  
 \
-📚 Master's student right now. 
+📚 Master's student right now.  
     &emsp;&emsp;目前是碩士生。  
 \
 🔭 Currently working on sky localization of gravitational waves.  
