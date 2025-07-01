@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🧋 I'm Taiwanese.  
-    &emsp;我是台灣人。  
+    &nbsp;我是台灣人。  
      
 📚 Master's student right now.  
     目前是碩士生。  
