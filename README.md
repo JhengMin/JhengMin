@@ -3,13 +3,7 @@
 🧋 I'm Taiwanese.  
     &emsp;&emsp;我是台灣人。  
 \
-📚 Master's student right now.  
-    &emsp;&emsp;目前是碩士生。  
-\
-🔭 Currently working on sky localization of gravitational waves.  
-    &emsp;&emsp;現在在做有關重力波天空定位的研究。  
-\
-💡 I like Physics, especially high-energy theoretical physics.  
+💡 I like Physics.  
     &emsp;&emsp;喜歡物理，尤其對高能理論物理感興趣。  
 \
 💖 I also like Education, and have an ambition to change the education situation.  
